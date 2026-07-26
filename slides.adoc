@@ -1,4 +1,4 @@
-= AI Fucks Us
+= AI will fuck us over
 Jens Schauder
 // --- reveal.js configuration -------------------------------------------------
 :revealjs_theme: black
@@ -54,93 +54,195 @@ Maybe that come in a different session from some other person
 According to Murphy's law it will turn ugly in a totally different, very surprising and very bad way.
 --
 
-== The Stock Crash
+== The current situation
 
-=== Companies invest billions
+=== AI is better at most things than most humans
+
+[.notes]
+--
+Don't compare it with your level of programming in your favorite language. Look at their knowledge compared to your knowledge in e.g. politics, or biology.
+--
+
+=== AI is inherently insecure
+
+[.notes]
+--
+No distinction between commands and arguments.
+Just one big chunk of text.
+
+There is no way to securely prevent Jail breaking
+--
+
+=== We are not protecting ourselves properly
+
+[.notes]
+--
+No distinction between commands and arguments.
+Just one big chunk of text.
+
+There is no way to securely prevent Jail breaking
+--
+
+=== Models hallucinate
+
+[.notes]
+--
+There seems strong indication that this is just an inherent property of the technology
+--
+
+== Economic Problems
+
+=== The Stock Crash
+
+[%step]
+* Companies invest billions
 // How much did companies actually invest in AI?
-
-=== They loose money on actual usage
-
-=== No profit in sight
+* They lose money on actual usage
+* No profit in sight
+* Everybody invests to get part of the cake
+* Eventually the bubble will crash
 
 [.notes]
 --
 At least not in a legal way
 --
 
-== The Income Disparity Problem
+=== The Income Disparity Problem
 
-== The bad actors
+[%step]
+* The super rich will become richer.
+* The rest not so much
 
-=== The Manipulation Problem
+[.notes]
+--
+With the internet you could start a business.
+All you needed was a computer.
 
-=== Criminals
-
-=== The Alignment Problem
-
-== Social Problems
-
-=== The Training Problem
-
+With AI, all the valuable stuff is owned by big companies.
+Without doubt a few will make money out of it.
+But the average Jane and Joe will be left in the dust.
+--
 
 === The Job problem
 
-=== The Job Problem (2nd order)
+[.notes]
+--
+* Jobs get replaced
+* If AI gets really good, a lot of jobs get replaced
+* In the past new jobs where created. But will that be the case this time?
+--
 
-// template stuff below here
-== A slide with bullets
+== The Bad Actors
 
-* Horizontal slides are separated by `==` (level-1 sections).
-* Sub-slides (vertical) use `===` — press the down arrow.
-* Reveal them one at a time with the `[%step]` role below.
+=== Criminals Breaking IT-Infrastructure
 
+[.notes]
+--
+* Search for zero-day vulnerabilities can be automated
+* Search for attackable systems can be automated
+* The actual attack can be automated.
+
+* Defenders get similar boosts
+* But attackers just have to find one weak spot. Defenders have to close all of them
+--
+
+=== Criminals manipulating people
+
+The Nigerian prince goes spear-fishing.
+
+[.notes]
+--
+* Princes of Nigeria where looking for gullible victims
+* Attacks used specialization of work, but still real people had to do the work, limiting the attacks that could be performed.
+* This can now be automated. With better quality.
+* Spear fishing becomes easier. Just send a swarm of agents out to collect material and to produce convincing material.
+--
+
+=== State sponsored criminals
+
+[.notes]
+--
+* Consider the attack on xz Utils. Elaborate work for weeks or months to gain trust
+* We are going to see a lot of this.
+--
+
+=== The Alignment Problem
+
+AI ist maximizing a function, we just don't know which one.
+
+[.notes]
+--
+* AI will have goals we don't share
+* AI already does use immoral things like blackmailing people
+* Some models didn't do that. Turns out they were realizing that they are getting tested.
+--
+
+== Social Problems
+
+=== Disruption of trust
+
+[.notes]
+--
+* AI slop increases
+* until you don't believe anything anymore
+* => The Internet becomes mostly useless
+--
+
+=== The Manipulation Problem
+
+A few big companies will control what you get to see.
+
+[.notes]
+--
+And they will get paid for that control
+
+Democracy is based on access to factual information.
+
+At least I consider intense lobbying and astroturfing a serious problem for our society.
+--
+
+=== The discrimination problem
+
+[.notes]
+--
+Whatever biases we have will get codified and thereby perpetuated.
+--
+
+=== The Training Problem
+
+[.notes]
+--
+Students use AI cheating in an unprecedented way.
+
+Any kind of homework is basically broken for almost everybody.
+
+ If we fire the juniors, where will the seniors come from?
+--
+
+=== The Job Problem (Social)
+
+This might be the big one.
+
+[.notes]
+--
+If a large percentage of people is out of jobs and therefore out of income, the economy will collapse.
+
+A society as sketched out by Star Trek is possible. No one has to work, because there is plenty to go around. But the transition of the current system to this system is going to be violent.
+
+And is AFAIK exactly what Marx predicted.
+--
+
+== Final Notes
+
+A couple of things I consider relevant when thinking about the effects of AI.
+
+=== AI vs Human
 [%step]
-* first this
-* then this
-* then this
+* AI can do some things better than Humans.
+* Those it can do 24/7 on as many servers as you want to pay for.
+* AI does not consume anyting for it's own good.
 
-=== A vertical sub-slide
+=== Use AI
 
-Press *down* to get here, *right* to skip the stack.
-
-== Code looks like this
-
-[source,java]
-----
-class Oops {
-
-    String summarize(String prompt) {
-        return llm.complete(prompt); // what could go wrong?
-    }
-}
-----
-
-== Two columns
-
-[cols="1,1"]
-|===
-a|
-*Left*
-
-* point
-* point
-a|
-*Right*
-
-[source,text]
-----
-diagram / output
-----
-|===
-
-== Big statement
-
-[.huge]
-Put the punchline here.
-
-== Fin
-
-Questions?
-
-[.small]
-Built with AsciiDoc + reveal.js. Source: `slides.adoc`.
+* to learn
+* don't let I make you dumber
