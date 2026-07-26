@@ -90,6 +90,15 @@ There is no way to securely prevent Jail breaking
 There seems strong indication that this is just an inherent property of the technology
 --
 
+=== AI is stolen material
+
+[.notes]
+--
+The whole AI is brought to use by illegal activity.
+
+But states profit massively from having AI companies in their jurisdiction, so ...
+--
+
 == Economic Problems
 
 === The Stock Crash
@@ -101,10 +110,12 @@ There seems strong indication that this is just an inherent property of the tech
 * No profit in sight
 * Everybody invests to get part of the cake
 * Eventually the bubble will crash
+* This will affect the real economy
 
 [.notes]
 --
-At least not in a legal way
+Profit: At least not in a legal way
+real economy: Don't know why.
 --
 
 === The Income Disparity Problem
@@ -239,10 +250,14 @@ A couple of things I consider relevant when thinking about the effects of AI.
 === AI vs Human
 [%step]
 * AI can do some things better than Humans.
-* Those it can do 24/7 on as many servers as you want to pay for.
+* Those it can, it can do 24/7 on as many servers as you want to pay for.
 * AI does not consume anyting for it's own good.
 
 === Use AI
 
 * to learn
 * don't let I make you dumber
+
+=== Discuss
+
+== Enjoy (J)Crete
