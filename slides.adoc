@@ -12,20 +12,82 @@ Jens Schauder
 :icons: font
 // -----------------------------------------------------------------------------
 
-== The claim
+== AI will fuck us over
 
-[.big]
-AI fucks us.
+The questions are:
 
-[.small]
-(Working title. The argument goes here.)
+[%step]
+* How?
+* How often?
+* Why can we be so sure about this?
 
 [.notes]
 --
-Speaker notes live in a `[.notes]` block. Press `S` in the browser to open
-the presenter view with notes, timer, and next-slide preview.
+I'll try to answer question 1 and 3
 --
 
+== Preface
+
+=== I love AI
+
+[.notes]
+--
+* I use it almost every day.
+* It helps with my work.
+* It helps with my hobbies.
+* I'm not claiming this to appease our AI overlords.
+
+	I'm just accepting  there superiority
+--
+
+=== I won't offer solutions
+
+[.notes]
+--
+Maybe that come in a different session from some other person
+--
+
+=== I'm not a prophet
+
+[.notes]
+--
+According to Murphy's law it will turn ugly in a totally different, very surprising and very bad way.
+--
+
+== The Stock Crash
+
+=== Companies invest billions
+// How much did companies actually invest in AI?
+
+=== They loose money on actual usage
+
+=== No profit in sight
+
+[.notes]
+--
+At least not in a legal way
+--
+
+== The Income Disparity Problem
+
+== The bad actors
+
+=== The Manipulation Problem
+
+=== Criminals
+
+=== The Alignment Problem
+
+== Social Problems
+
+=== The Training Problem
+
+
+=== The Job problem
+
+=== The Job Problem (2nd order)
+
+// template stuff below here
 == A slide with bullets
 
 * Horizontal slides are separated by `==` (level-1 sections).
