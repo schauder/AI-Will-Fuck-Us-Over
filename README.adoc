@@ -1,0 +1,45 @@
+= AI Fucks Us — Talk
+
+Slides written in AsciiDoc, rendered to https://revealjs.com[reveal.js].
+
+== Prerequisites
+
+* Docker (builds run in `asciidoctor/docker-asciidoctor` — no local Ruby needed)
+* Node.js (only for `make watch`)
+* Python 3 (only for `make serve`)
+
+== Quick start
+
+[source,shell]
+----
+make setup     # one-time: download reveal.js assets
+make serve     # build + serve at http://localhost:8000
+----
+
+For a live authoring loop, run `make watch` in a second terminal and refresh
+the browser after each save.
+
+== Files
+
+[cols="1,3"]
+|===
+| `slides.adoc` | The talk. This is the file you edit.
+| `custom.css`  | Style tweaks layered over the reveal.js theme.
+| `Makefile`    | Build / serve / watch targets.
+| `watch.mjs`   | Dependency-free rebuild-on-save watcher.
+| `index.html`  | Generated output (git-ignored).
+| `reveal.js/`  | Vendored reveal.js assets (git-ignored; run `make setup`).
+|===
+
+== Presenting
+
+* `S` — presenter view (notes, timer, next-slide preview)
+* `F` — fullscreen
+* `O` — slide overview
+* Arrow keys — navigate (right/left across topics, down/up within a stack)
+
+== Export to PDF
+
+Append `?print-pdf` to the URL, then use the browser's Print dialog:
+
+  http://localhost:8000/index.html?print-pdf

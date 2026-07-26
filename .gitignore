@@ -1,0 +1,14 @@
+# Generated presentation
+index.html
+
+# Vendored reveal.js assets — fetch with `make setup`
+reveal.js/
+
+# Asciidoctor scratch
+.asciidoctor/
+
+# IDE
+.idea/
+
+# directory with material to process
+material/

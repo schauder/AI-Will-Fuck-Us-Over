@@ -1,0 +1,84 @@
+= AI Fucks Us
+Jens Schauder
+// --- reveal.js configuration -------------------------------------------------
+:revealjs_theme: black
+:revealjs_transition: slide
+:revealjs_hash: true
+:revealjs_slideNumber: c/t
+:revealjs_history: true
+:revealjsdir: reveal.js
+:source-highlighter: highlight.js
+:customcss: custom.css
+:icons: font
+// -----------------------------------------------------------------------------
+
+== The claim
+
+[.big]
+AI fucks us.
+
+[.small]
+(Working title. The argument goes here.)
+
+[.notes]
+--
+Speaker notes live in a `[.notes]` block. Press `S` in the browser to open
+the presenter view with notes, timer, and next-slide preview.
+--
+
+== A slide with bullets
+
+* Horizontal slides are separated by `==` (level-1 sections).
+* Sub-slides (vertical) use `===` — press the down arrow.
+* Reveal them one at a time with the `[%step]` role below.
+
+[%step]
+* first this
+* then this
+* then this
+
+=== A vertical sub-slide
+
+Press *down* to get here, *right* to skip the stack.
+
+== Code looks like this
+
+[source,java]
+----
+class Oops {
+
+    String summarize(String prompt) {
+        return llm.complete(prompt); // what could go wrong?
+    }
+}
+----
+
+== Two columns
+
+[cols="1,1"]
+|===
+a|
+*Left*
+
+* point
+* point
+a|
+*Right*
+
+[source,text]
+----
+diagram / output
+----
+|===
+
+== Big statement
+
+[.huge]
+Put the punchline here.
+
+== Fin
+
+Questions?
+
+[.small]
+Built with AsciiDoc + reveal.js. Source: `slides.adoc`.
