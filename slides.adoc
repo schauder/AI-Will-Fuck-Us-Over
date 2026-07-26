@@ -1,4 +1,4 @@
-= AI will fuck us over
+= AI Will Fuck Us Over
 Jens Schauder
 // --- reveal.js configuration -------------------------------------------------
 :revealjs_theme: black
@@ -12,7 +12,7 @@ Jens Schauder
 :icons: font
 // -----------------------------------------------------------------------------
 
-== AI will fuck us over
+== AI Will Fuck Us Over
 
 The questions are:
 
@@ -28,7 +28,7 @@ I'll try to answer question 1 and 3
 
 == Preface
 
-=== I love AI
+=== I Love AI
 
 [.notes]
 --
@@ -40,30 +40,30 @@ I'll try to answer question 1 and 3
 	I'm just accepting  there superiority
 --
 
-=== I won't offer solutions
+=== I Won't Offer Solutions
 
 [.notes]
 --
 Maybe that come in a different session from some other person
 --
 
-=== I'm not a prophet
+=== I'm Not a Prophet
 
 [.notes]
 --
 According to Murphy's law it will turn ugly in a totally different, very surprising and very bad way.
 --
 
-== The current situation
+== The Current Situation
 
-=== AI is better at most things than most humans
+=== AI Is Better at Most Things Than Most Humans
 
 [.notes]
 --
 Don't compare it with your level of programming in your favorite language. Look at their knowledge compared to your knowledge in e.g. politics, or biology.
 --
 
-=== AI is inherently insecure
+=== AI Is Inherently Insecure
 
 [.notes]
 --
@@ -73,7 +73,7 @@ Just one big chunk of text.
 There is no way to securely prevent Jail breaking
 --
 
-=== We are not protecting ourselves properly
+=== We Are Not Protecting Ourselves Properly
 
 [.notes]
 --
@@ -83,14 +83,14 @@ Just one big chunk of text.
 There is no way to securely prevent Jail breaking
 --
 
-=== Models hallucinate
+=== Models Hallucinate
 
 [.notes]
 --
 There seems strong indication that this is just an inherent property of the technology
 --
 
-=== AI is stolen material
+=== AI Is Stolen Material
 
 [.notes]
 --
@@ -134,7 +134,7 @@ Without doubt a few will make money out of it.
 But the average Jane and Joe will be left in the dust.
 --
 
-=== The Job problem
+=== The Job Problem
 
 [.notes]
 --
@@ -157,7 +157,7 @@ But the average Jane and Joe will be left in the dust.
 * But attackers just have to find one weak spot. Defenders have to close all of them
 --
 
-=== Criminals manipulating people
+=== Criminals Manipulating People
 
 The Nigerian prince goes spear-fishing.
 
@@ -169,7 +169,7 @@ The Nigerian prince goes spear-fishing.
 * Spear fishing becomes easier. Just send a swarm of agents out to collect material and to produce convincing material.
 --
 
-=== State sponsored criminals
+=== State Sponsored Criminals
 
 [.notes]
 --
@@ -190,7 +190,7 @@ AI ist maximizing a function, we just don't know which one.
 
 == Social Problems
 
-=== Disruption of trust
+=== Disruption of Trust
 
 [.notes]
 --
@@ -212,7 +212,7 @@ Democracy is based on access to factual information.
 At least I consider intense lobbying and astroturfing a serious problem for our society.
 --
 
-=== The discrimination problem
+=== The Discrimination Problem
 
 [.notes]
 --
