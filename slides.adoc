@@ -24,7 +24,7 @@ The questions are:
 
 [.notes]
 --
-I'll try to answer question 1 and 3
+I'll try to answer questions 1 and 3
 --
 
 == Preface
@@ -38,14 +38,14 @@ I'll try to answer question 1 and 3
 * It helps with my hobbies.
 * I'm not claiming this to appease our AI overlords.
 
-	I'm just accepting  there superiority
+	I'm just accepting their superiority
 --
 
 === I Won't Offer Solutions
 
 [.notes]
 --
-Maybe that come in a different session from some other person
+Maybe that comes in a different session from some other person
 --
 
 === I'm Not a Prophet
@@ -141,7 +141,7 @@ But the average Jane and Joe will be left in the dust.
 --
 * Jobs get replaced
 * If AI gets really good, a lot of jobs get replaced
-* In the past new jobs where created. But will that be the case this time?
+* In the past, new jobs were created. But will that be the case this time?
 --
 
 == The Bad Actors
@@ -160,14 +160,14 @@ But the average Jane and Joe will be left in the dust.
 
 === Criminals Manipulating People
 
-The Nigerian prince goes spear-fishing.
+The Nigerian prince goes spear-phishing.
 
 [.notes]
 --
-* Princes of Nigeria where looking for gullible victims
+* Princes of Nigeria were looking for gullible victims
 * Attacks used specialization of work, but still real people had to do the work, limiting the attacks that could be performed.
 * This can now be automated. With better quality.
-* Spear fishing becomes easier. Just send a swarm of agents out to collect material and to produce convincing material.
+* Spear phishing becomes easier. Just send a swarm of agents out to collect material and to produce convincing material.
 --
 
 === State Sponsored Criminals
@@ -180,7 +180,7 @@ The Nigerian prince goes spear-fishing.
 
 === The Alignment Problem
 
-AI ist maximizing a function, we just don't know which one.
+AI is maximizing a function, we just don't know which one.
 
 [.notes]
 --
@@ -252,12 +252,12 @@ A couple of things I consider relevant when thinking about the effects of AI.
 [%step]
 * AI can do some things better than Humans.
 * Those it can, it can do 24/7 on as many servers as you want to pay for.
-* AI does not consume anyting for it's own good.
+* AI does not consume anything for its own good.
 
 === Use AI
 
 * to learn
-* don't let I make you dumber
+* don't let AI make you dumber
 
 === Discuss
 
