@@ -144,6 +144,15 @@ But the average Jane and Joe will be left in the dust.
 * In the past, new jobs were created. But will that be the case this time?
 --
 
+=== The Dependency Problem
+
+All relevant models come from few states.
+
+[.notes]
+--
+The US already demonstrated they can turn of access in an instance.
+--
+
 == The Bad Actors
 
 === Criminals Breaking IT-Infrastructure
