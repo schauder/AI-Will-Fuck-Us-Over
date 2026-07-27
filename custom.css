@@ -18,3 +18,32 @@
 /* Tighten column tables used for side-by-side layouts. */
 .reveal table.tableblock { border: none; }
 .reveal table.tableblock td { border: none; vertical-align: top; }
+
+/* Print / PDF export (?print-pdf): invert the black theme to black-on-white. */
+@media print {
+  :root {
+    --r-background-color: #fff;
+    --r-main-color: #000;
+    --r-heading-color: #000;
+    --r-link-color: #1a6ec2;
+    --r-link-color-hover: #1a6ec2;
+  }
+
+  html, body,
+  .reveal, .reveal-viewport,
+  .reveal .slides,
+  .reveal .slides section,
+  .reveal .backgrounds,
+  .reveal .slide-background {
+    background: #fff !important;
+    color: #000 !important;
+  }
+
+  .reveal h1, .reveal h2, .reveal h3,
+  .reveal h4, .reveal h5, .reveal h6 { color: #000 !important; }
+
+  .reveal a { color: var(--r-link-color) !important; }
+
+  /* .small dims text with opacity — keep it legible on paper. */
+  .reveal .small { opacity: 1; color: #444 !important; }
+}
