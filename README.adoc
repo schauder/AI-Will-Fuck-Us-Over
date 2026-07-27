@@ -2,6 +2,8 @@
 
 Slides written in AsciiDoc, rendered to https://revealjs.com[reveal.js].
 
+See the results at http://blog.schauderhaft.de/AI-Will-Fuck-Us-Over/#/[schauderhaft.de]
+
 == Prerequisites
 
 * Docker (builds run in `asciidoctor/docker-asciidoctor` — no local Ruby needed)
