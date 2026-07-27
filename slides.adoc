@@ -4,7 +4,8 @@ Jens Schauder
 :revealjs_theme: black
 :revealjs_transition: slide
 :revealjs_hash: true
-:revealjs_slideNumber: c/t
+:revealjs_slideNumber: false
+:revealjs_controls: false
 :revealjs_history: true
 :revealjsdir: reveal.js
 :source-highlighter: highlight.js
