@@ -1,0 +1,40 @@
+name: Build & Publish Slides
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gh-pages
+  cancel-in-progress: true
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download reveal.js assets
+        run: make setup
+
+      - name: Build index.html
+        run: |
+          docker run --rm -v "$PWD":/documents asciidoctor/docker-asciidoctor \
+            asciidoctor-revealjs slides.adoc -o index.html
+
+      - name: Assemble site
+        run: |
+          mkdir -p _site/reveal.js
+          cp index.html custom.css _site/
+          cp -R reveal.js/dist reveal.js/plugin _site/reveal.js/
+
+      - name: Publish to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
