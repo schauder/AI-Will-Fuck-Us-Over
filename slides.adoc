@@ -277,3 +277,5 @@ Slides http://blog.schauderhaft.de/AI-Will-Fuck-Us-Over/#/
 Printable version
 
 http://blog.schauderhaft.de/AI-Will-Fuck-Us-Over/?print-pdf
+
+Github: https://github.com/schauder/AI-Will-Fuck-Us-Over
