@@ -197,18 +197,6 @@ _(Short — not watched.)_ On the "AI in a box" containment problem.
 *Threat:* Containment — a sufficiently capable and persuasive system may not be
 reliably kept in a box, by technical escape or by talking its way out. _(Verify.)_
 
-=== A Path Towards Autonomous Machine Intelligence [.silver]#● from note (fetch blocked)#
-
-Reference:: OpenReview — https://openreview.net/forum?id=BZ5a1r-kVsf
-
-_(OpenReview blocked automated fetch; summarized from your captured note.)_ Yann
-LeCun's vision paper for autonomous machine intelligence. Framing from the note:
-today's AI is a Kahneman "System 1"; via tools, MCP, and prompt engineering we are
-trying to bolt on "System 2" (deliberate planning).
-
-*Threat:* The explicit direction of travel is toward autonomous, planning agents —
-more agency and capability, which amplifies every alignment and containment concern
-above.
 
 == Trust, Truth & the Information Ecosystem
 
@@ -281,9 +269,8 @@ episode.)_
 Reference:: The Register — https://www.theregister.com/2026/01/21/curl_ends_bug_bounty/ +
 The New Stack — https://thenewstack.io/drowning-in-ai-slop-reports-curl-ends-bug-bounties/
 
-CAUTION: Your note said the curl maintainer "quits." He did **not**. In January
-2026 Daniel Stenberg *ended curl's HackerOne bug-bounty program* — he remains the
-maintainer. Fix this before using it on stage.
+In January
+2026 Daniel Stenberg *ended curl's HackerOne bug-bounty program*
 
 Stenberg killed the bounty after a flood of AI-generated junk security reports
 (complained about since early 2024). Examples: a "use-after-free" whose proof-of-
@@ -355,60 +342,3 @@ experience, and *critique* you where you're proficient.
 
 *Threat:* Deskilling / erosion of critical thinking — offloading the work atrophies
 the judgment you need to supervise it. Doubles as the mitigation.
-
-=== AI as a 1:1 Tutor / Assistant (Khan) [.red]#⚠ inferred (video)#
-
-Reference:: TED, Sal Khan — https://www.ted.com/talks/sal_khan_how_ai_could_save_not_destroy_education
-
-_(Talk — not watched.)_ The optimistic case that AI can be a personal tutor and a
-teacher's assistant.
-
-*Threat:* None claimed — a counterpoint/positive use to hold against the education
-and detection concerns. _(Verify framing.)_
-
-=== AI as a Tool to Understand Our Brain (Ganguli) [.silver]#● from note (video)#
-
-Reference:: TED, Surya Ganguli — https://www.ted.com/talks/surya_ganguli_can_ai_match_the_human_brain
-
-_(Talk — not watched; from your captured note.)_ We can simulate (parts of) brains
-to inspect and examine them, possibly touching on consciousness.
-
-*Threat:* None claimed — a positive/scientific use of AI.
-
-== Tools, Techniques & Neutral References
-
-=== Is This the Better Developer? (Ist so der bessere Entwickler?) [.silver]#● personal note#
-
-Reference:: (personal note, no link)
-
-Open question from the notes: can an agent follow more rules than a human — "an
-agent per rule?"
-
-*Threat:* None — an open design question about agentic development.
-
-=== Spring AI — Agentic Patterns [.silver]#● reference#
-
-Reference:: https://github.com/spring-projects/spring-ai-examples/tree/main/agentic-patterns +
-Intro article: https://spring.io/blog/2025/01/21/spring-ai-agentic-patterns/
-
-Reference implementation of agentic patterns in Spring AI.
-
-*Threat:* None directly — but building agents is what leads into the "lethal
-trifecta" and autonomy concerns.
-
-=== Microsoft GraphRAG [.silver]#● reference#
-
-Reference:: https://microsoft.github.io/graphrag/
-
-Technique: build a graph over your data and use it in retrieval-augmented
-generation.
-
-*Threat:* None — a technique reference.
-
-=== AI Models (catalog) [.silver]#● personal note#
-
-Reference:: (personal note)
-
-Running list of models/tools. So far: image generation — Adobe Firefly.
-
-*Threat:* None — a catalog note.
