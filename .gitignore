@@ -1,5 +1,6 @@
 # Generated presentation
 index.html
+sources.html
 
 # Vendored reveal.js assets — fetch with `make setup`
 reveal.js/

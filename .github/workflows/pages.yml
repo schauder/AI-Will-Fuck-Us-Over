@@ -27,10 +27,15 @@ jobs:
           docker run --rm -v "$PWD":/documents asciidoctor/docker-asciidoctor \
             asciidoctor-revealjs slides.adoc -o index.html
 
+      - name: Build sources.html
+        run: |
+          docker run --rm -v "$PWD":/documents asciidoctor/docker-asciidoctor \
+            asciidoctor sources.adoc -o sources.html
+
       - name: Assemble site
         run: |
           mkdir -p _site/reveal.js
-          cp index.html custom.css _site/
+          cp index.html sources.html custom.css _site/
           cp -R reveal.js/dist reveal.js/plugin _site/reveal.js/
 
       - name: Publish to gh-pages

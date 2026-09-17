@@ -14,11 +14,15 @@ OUTPUT           := index.html
 
 .PHONY: html serve watch setup clean
 
-html: reveal.js $(OUTPUT)
+html: reveal.js $(OUTPUT) sources.html
 
 $(OUTPUT): $(SOURCE) custom.css
 	$(DOCKER) asciidoctor-revealjs $(SOURCE) -o $(OUTPUT)
 	@echo "Built $(OUTPUT)"
+
+sources.html: sources.adoc
+	$(DOCKER) asciidoctor sources.adoc -o sources.html
+	@echo "Built sources.html"
 
 reveal.js:
 	@$(MAKE) setup
@@ -38,5 +42,5 @@ watch:
 	@node watch.mjs
 
 clean:
-	@rm -f $(OUTPUT)
-	@echo "Removed $(OUTPUT)"
+	@rm -f $(OUTPUT) sources.html
+	@echo "Removed $(OUTPUT) and sources.html"
