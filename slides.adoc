@@ -11,6 +11,11 @@ Jens Schauder
 :source-highlighter: highlight.js
 :customcss: custom.css
 :icons: font
+// --- section artwork ---------------------------------------------------------
+// One pair of attributes per section: *-cover goes on the `==` slide (full-bleed),
+// *-badge on every `===` slide of that section (same image, small, top right).
+:bad-actors-cover: .section-cover,background-image="images/alien.jpg",background-size="cover"
+:bad-actors-badge: background-image="images/alien.jpg",background-size="400px",background-position="top right",background-repeat="no-repeat"
 // -----------------------------------------------------------------------------
 
 == Wir werden von der KI gefickt werden
@@ -152,8 +157,10 @@ Alle relevanten Modelle kommen aus wenigen Staaten.
 Die USA haben schon vorgeführt, dass sie Zugänge von einem Moment auf den anderen abschalten können.
 --
 
-== Die bösen Buben
+[{bad-actors-cover}]
+== Das Böse ist immer und überall
 
+[{bad-actors-badge}]
 === Kriminelle zerlegen die IT-Infrastruktur
 
 [.notes]
@@ -166,6 +173,7 @@ Die USA haben schon vorgeführt, dass sie Zugänge von einem Moment auf den ande
 * Aber Angreifer müssen nur eine Lücke finden. Verteidiger müssen alle schließen.
 --
 
+[{bad-actors-badge}]
 === Kriminelle manipulieren Menschen
 
 Der nigerianische Prinz geht jetzt Spear-Phishing.
@@ -178,6 +186,7 @@ Der nigerianische Prinz geht jetzt Spear-Phishing.
 * Spear-Phishing wird einfach. Man schickt einen Schwarm Agenten los, der Material sammelt und daraus überzeugende Texte baut.
 --
 
+[{bad-actors-badge}]
 === Staatlich finanzierte Kriminelle
 
 [.notes]
@@ -186,6 +195,7 @@ Der nigerianische Prinz geht jetzt Spear-Phishing.
 * Davon werden wir noch eine Menge sehen.
 --
 
+[{bad-actors-badge}]
 === Das Alignment-Problem
 
 KI maximiert eine Funktion, wir wissen nur nicht, welche.
