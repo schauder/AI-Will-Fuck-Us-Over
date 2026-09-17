@@ -1,4 +1,4 @@
-= AI Will Fuck Us Over
+= Wir werden von der KI gefickt werden
 Jens Schauder
 // --- reveal.js configuration -------------------------------------------------
 :revealjs_theme: black
@@ -13,273 +13,272 @@ Jens Schauder
 :icons: font
 // -----------------------------------------------------------------------------
 
-== AI Will Fuck Us Over
+== Wir werden von der KI gefickt werden
 
-The questions are:
-
-[%step]
-* How?
-* How often?
-* Why can we be so sure about this?
-
-[.notes]
---
-I'll try to answer questions 1 and 3
---
-
-== Preface
-
-=== I Love AI
-
-[.notes]
---
-* I use it almost every day.
-* It helps with my work.
-* It helps with my hobbies.
-* I'm not claiming this to appease our AI overlords.
-
-	I'm just accepting their superiority
---
-
-=== I Won't Offer Solutions
-
-[.notes]
---
-Maybe that comes in a different session from some other person
---
-
-=== I'm Not a Prophet
-
-[.notes]
---
-According to Murphy's law it will turn ugly in a totally different, very surprising and very bad way.
---
-
-== The Current Situation
-
-=== AI Is Better at Most Things Than Most Humans
-
-[.notes]
---
-Don't compare it with your level of programming in your favorite language. Look at their knowledge compared to your knowledge in e.g. politics, or biology.
---
-
-=== AI Is Inherently Insecure
-
-[.notes]
---
-No distinction between commands and arguments.
-Just one big chunk of text.
-
-There is no way to securely prevent Jail breaking
---
-
-=== We Are Not Protecting Ourselves Properly
-
-[.notes]
---
-No distinction between commands and arguments.
-Just one big chunk of text.
-
-There is no way to securely prevent Jail breaking
---
-
-=== Models Hallucinate
-
-[.notes]
---
-There seems strong indication that this is just an inherent property of the technology
---
-
-=== AI Is Stolen Material
-
-[.notes]
---
-The whole AI is brought to use by illegal activity.
-
-But states profit massively from having AI companies in their jurisdiction, so ...
---
-
-== Economic Problems
-
-=== The Stock Crash
+Die Frage ist nur:
 
 [%step]
-* Companies invest billions
+* Wie?
+* Wie oft?
+* Warum denke ich das?
+
+[.notes]
+--
+Ich versuche #1 und #3 zu beantworten
+--
+
+== Vorweg
+
+=== Ich mag KI
+
+[.notes]
+--
+* Ich nutze sie fast jeden Tag.
+* Sie hilft bei meiner Arbeit.
+* Sie hilft bei meinen Hobbies.
+* Ich sage das ganz bestimmt nicht um mich Skynet einzuschleimen.
++
+Ich akzeptiere einfach nur, dass sie uns überlegen ist
+--
+
+=== Ich biete keine Lösungen an
+
+[.notes]
+--
+Vielleicht kommt das ja in einer anderen Session, von einer anderen Person
+--
+
+=== Ich bin kein Prophet
+
+Nach Murphys Law kommt alles ganz anders.
+Und wird noch viel schlimmer
+
+== Die aktuelle Situation
+
+=== KI kann die meisten Dinge besser als die meisten Menschen
+
+[.notes]
+--
+Vergleicht die Leistung der KI nicht mit euren Programmierkenntnissen in eurer bevorzugten Programmiersprache.
+Sondern mit den halb Dutzend anderen Sprachen, die ihr irgendwann mal verwendet habt.
+--
+
+=== KI ist unsicher
+
+[.notes]
+--
+Es gibt keine Trennung zwischen Argumenten und Befehl.
+
+Es ist alles nur ein fetter Text
+--
+
+=== Wir schützen uns nicht ordentlich
+
+[.notes]
+--
+AI Alignment Forscher:
+
+Früher: AGI wird aus jeder Sandbox ausbrechen können
+
+Heute: Wir lassen sie einfach mit Root Rechten auf unserem Rechner laufen und geben ihr unsere Kreditkarte.
+--
+
+=== KI Halluziniert
+
+[.notes]
+--
+Dies scheint eine mathematisch notwendige Eigenschaft zu sein.
+--
+
+=== KI basiert auf gestohlenem Material
+
+[.notes]
+--
+KIs basieren auf illegalen Aktivitäten.
+
+Aber Staaten profitieren massiv davon wenn KI-Firmen im Inland sind statt im Ausland ...
+--
+
+== Ökonomische Probleme
+
+=== Der Börsencrash
+
+[%step]
+* Firmen investieren Billionen
 // How much did companies actually invest in AI?
-* They lose money on actual usage
-* No profit in sight
-* Everybody invests to get part of the cake
-* Eventually the bubble will crash
-* This will affect the real economy
+* Sie verlieren Geld, wenn man ihre Systeme tatsächlich nutzt
+* Es ist kein Gewinn in Sicht
+* Alle investieren, weil sie ein Stück vom Kuchen haben wollen.
+* Die Blase wird platzen
+* Das hat Auswirkungen auf die Realwirtschaft.
 
 [.notes]
 --
-Profit: At least not in a legal way
-real economy: Don't know why.
+Gewinn: Zumindest nicht auf legalem Weg
+real economy: Kapital fehlt für reale Investitionen
 --
 
-=== The Income Disparity Problem
+=== Einkommensungleichheit
 
 [%step]
-* The super rich will become richer.
-* The rest not so much
+* Die Superreichen werden reicher
+* Der Rest muss sehen, wo er bleibt
 
 [.notes]
 --
-With the internet you could start a business.
-All you needed was a computer.
+Mit dem Internet konnte jeder eine Firma gründen.
+Alles was man brauchte, war ein Computer.
 
-With AI, all the valuable stuff is owned by big companies.
-Without doubt a few will make money out of it.
-But the average Jane and Joe will be left in the dust.
+Bei der KI gehört alles Wertvolle den großen Konzernen.
+Ein paar werden damit ohne Zweifel Geld verdienen.
+Aber Otto und Ottilie Normalverbraucher bleiben auf der Strecke.
 --
 
-=== The Job Problem
+=== Das Arbeitsplatzproblem
 
 [.notes]
 --
-* Jobs get replaced
-* If AI gets really good, a lot of jobs get replaced
-* In the past, new jobs were created. But will that be the case this time?
+* Arbeitsplätze werden ersetzt
+* Wenn KI richtig gut wird, werden sehr viele Arbeitsplätze ersetzt
+* Früher sind dafür neue Jobs entstanden. Aber gilt das diesmal auch?
 --
 
-=== The Dependency Problem
+=== Das Abhängigkeitsproblem
 
-All relevant models come from few states.
+Alle relevanten Modelle kommen aus wenigen Staaten.
 
 [.notes]
 --
-The US already demonstrated they can turn of access in an instance.
+Die USA haben schon vorgeführt, dass sie Zugänge von einem Moment auf den anderen abschalten können.
 --
 
-== The Bad Actors
+== Die bösen Buben
 
-=== Criminals Breaking IT-Infrastructure
+=== Kriminelle zerlegen die IT-Infrastruktur
 
 [.notes]
 --
-* Search for zero-day vulnerabilities can be automated
-* Search for attackable systems can be automated
-* The actual attack can be automated.
+* Die Suche nach Zero-Day-Lücken lässt sich automatisieren
+* Die Suche nach angreifbaren Systemen lässt sich automatisieren
+* Der eigentliche Angriff lässt sich automatisieren.
 
-* Defenders get similar boosts
-* But attackers just have to find one weak spot. Defenders have to close all of them
+* Die Verteidiger bekommen ähnliche Werkzeuge
+* Aber Angreifer müssen nur eine Lücke finden. Verteidiger müssen alle schließen.
 --
 
-=== Criminals Manipulating People
+=== Kriminelle manipulieren Menschen
 
-The Nigerian prince goes spear-phishing.
+Der nigerianische Prinz geht jetzt Spear-Phishing.
 
 [.notes]
 --
-* Princes of Nigeria were looking for gullible victims
-* Attacks used specialization of work, but still real people had to do the work, limiting the attacks that could be performed.
-* This can now be automated. With better quality.
-* Spear phishing becomes easier. Just send a swarm of agents out to collect material and to produce convincing material.
+* Die Prinzen von Nigeria haben nach leichtgläubigen Opfern gesucht
+* Die Angriffe waren schon arbeitsteilig organisiert, aber die Arbeit mussten echte Menschen machen. Das hat die Zahl der Angriffe begrenzt.
+* Das lässt sich jetzt automatisieren. Und zwar in besserer Qualität.
+* Spear-Phishing wird einfach. Man schickt einen Schwarm Agenten los, der Material sammelt und daraus überzeugende Texte baut.
 --
 
-=== State Sponsored Criminals
+=== Staatlich finanzierte Kriminelle
 
 [.notes]
 --
-* Consider the attack on xz Utils. Elaborate work for weeks or months to gain trust
-* We are going to see a lot of this.
+* Denkt an den Angriff auf xz Utils. Wochen- oder monatelange Arbeit, nur um Vertrauen aufzubauen
+* Davon werden wir noch eine Menge sehen.
 --
 
-=== The Alignment Problem
+=== Das Alignment-Problem
 
-AI is maximizing a function, we just don't know which one.
+KI maximiert eine Funktion, wir wissen nur nicht, welche.
 
 [.notes]
 --
-* AI will have goals we don't share
-* AI already does use immoral things like blackmailing people
-* Some models didn't do that. Turns out they were realizing that they are getting tested.
+* KI wird Ziele haben, die wir nicht teilen
+* KI greift heute schon zu unmoralischen Mitteln, zum Beispiel Erpressung
+* Manche Modelle haben das nicht getan. Es stellte sich heraus: Sie hatten gemerkt, dass sie getestet werden.
 --
 
-== Social Problems
+== Gesellschaftliche Probleme
 
-=== Disruption of Trust
+=== Vertrauen bricht weg
 
 [.notes]
 --
-* AI slop increases
-* until you don't believe anything anymore
-* => The Internet becomes mostly useless
+* Der KI-Schrott nimmt zu
+* bis man gar nichts mehr glaubt
+* => Das Internet wird weitgehend nutzlos
 --
 
-=== The Manipulation Problem
+=== Das Manipulationsproblem
 
-A few big companies will control what you get to see.
+Ein paar große Konzerne bestimmen, was ihr zu sehen bekommt.
 
 [.notes]
 --
-And they will get paid for that control
+Und sie werden für diese Kontrolle bezahlt
 
-Democracy is based on access to factual information.
+Demokratie basiert auf dem Zugang zu Fakten.
 
-At least I consider intense lobbying and astroturfing a serious problem for our society.
+Zumindest halte ich massives Lobbying und Astroturfing für ein ernstes Problem für unsere Gesellschaft.
 --
 
-=== The Discrimination Problem
+=== Das Diskriminierungsproblem
 
 [.notes]
 --
-Whatever biases we have will get codified and thereby perpetuated.
+Welche Vorurteile wir auch haben: Sie werden einzementiert und damit fortgeschrieben.
 --
 
-=== The Training Problem
+=== Das Ausbildungsproblem
 
 [.notes]
 --
-Students use AI cheating in an unprecedented way.
+Studenten schummeln mit KI in nie dagewesenem Ausmaß.
 
-Any kind of homework is basically broken for almost everybody.
+Hausaufgaben jeder Art sind für praktisch alle kaputt.
 
- If we fire the juniors, where will the seniors come from?
+ Und wenn wir die Junioren rauswerfen, wo sollen dann die Senioren herkommen?
 --
 
-=== The Job Problem (Social)
+=== Das Arbeitsplatzproblem (gesellschaftlich)
 
-This might be the big one.
+Das könnte das ganz große Ding sein.
 
 [.notes]
 --
-If a large percentage of people is out of jobs and therefore out of income, the economy will collapse.
+Wenn ein großer Teil der Menschen keine Arbeit und damit kein Einkommen hat, bricht die Wirtschaft zusammen.
 
-A society as sketched out by Star Trek is possible. No one has to work, because there is plenty to go around. But the transition of the current system to this system is going to be violent.
+Eine Gesellschaft wie in Star Trek ist möglich. Niemand muss arbeiten, weil für alle genug da ist. Aber der Übergang vom heutigen System dorthin wird gewalttätig.
 
-And is AFAIK exactly what Marx predicted.
+Und ist, soweit ich weiß, genau das, was Marx vorhergesagt hat.
 --
 
-== Final Notes
+== Zum Schluss
 
-A couple of things I consider relevant when thinking about the effects of AI.
+Ein paar Dinge, die ich für wichtig halte, wenn man über die Folgen von KI nachdenkt.
 
-=== AI vs Human
+=== KI vs. Mensch
 [%step]
-* AI can do some things better than Humans.
-* Those it can, it can do 24/7 on as many servers as you want to pay for.
-* AI does not consume anything for its own good.
+* KI kann manche Dinge besser als Menschen.
+* Und was sie kann, das kann sie rund um die Uhr, auf so vielen Servern, wie man bezahlen mag.
+* KI verbraucht nichts für sich selbst.
 
-=== Use AI
+=== Nutzt KI
 
-* to learn
-* don't let AI make you dumber
+* um zu lernen
+* lasst euch von der KI nicht dümmer machen
 
-=== Discuss
+=== Diskussion
 
 == Enjoy (J)Crete
 
-Slides http://blog.schauderhaft.de/AI-Will-Fuck-Us-Over/#/
+Folien http://blog.schauderhaft.de/AI-Will-Fuck-Us-Over/#/
 
-Printable version
+Druckversion
 
 http://blog.schauderhaft.de/AI-Will-Fuck-Us-Over/?print-pdf
 
 Github: https://github.com/schauder/AI-Will-Fuck-Us-Over
 
-Sources http://blog.schauderhaft.de/AI-Will-Fuck-Us-Over/sources.html
+Quellen http://blog.schauderhaft.de/AI-Will-Fuck-Us-Over/sources.html
 
 
