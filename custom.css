@@ -30,6 +30,18 @@
   text-shadow: 0 2px 14px rgba(0, 0, 0, 0.9);
 }
 
+/* Same scrim for body text, for cover slides that carry more than a heading. */
+.reveal section.section-cover .slide-content {
+  display: inline-block;
+  padding: 0.3em 0.8em;
+  background: rgba(0, 0, 0, 0.6);
+  border-radius: 8px;
+}
+
+/* Slides carrying the right-edge section strip: keep the content clear of it. */
+.reveal section.with-strip > h2,
+.reveal section.with-strip > .slide-content { padding-right: 22%; }
+
 /* Print / PDF export (?print-pdf): invert the black theme to black-on-white. */
 @media print {
   :root {

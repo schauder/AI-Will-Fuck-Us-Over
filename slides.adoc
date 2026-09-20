@@ -13,11 +13,21 @@ Jens Schauder
 :icons: font
 // --- section artwork ---------------------------------------------------------
 // One pair of attributes per section: *-cover goes on the `==` slide (full-bleed),
-// *-badge on every `===` slide of that section (same image, small, top right).
+// *-strip on every `===` slide of that section — a narrow vertical band cut from the
+// same picture, flush against the right edge (see images/*-strip.jpg).
+:title-cover: .section-cover,background-image="images/pulp-fiction-rape.jpg",background-size="cover"
+:title-strip: .with-strip,background-image="images/pulp-fiction-rape-strip.jpg",background-size="auto 100%",background-position="right",background-repeat="no-repeat"
+:situation-cover: .section-cover,background-image="images/instant-cassette.jpeg",background-size="cover"
+:situation-strip: .with-strip,background-image="images/instant-cassette-strip.jpg",background-size="auto 100%",background-position="right",background-repeat="no-repeat"
+:economy-cover: .section-cover,background-image="images/heck.jpeg",background-size="contain",background-position="center",background-repeat="no-repeat"
+:economy-strip: .with-strip,background-image="images/heck-strip.jpg",background-size="auto 100%",background-position="right",background-repeat="no-repeat"
+:social-cover: .section-cover,background-image="images/falling-down.jpg",background-size="cover"
+:social-strip: .with-strip,background-image="images/falling-down-strip.jpg",background-size="auto 100%",background-position="right",background-repeat="no-repeat"
 :bad-actors-cover: .section-cover,background-image="images/alien.jpg",background-size="cover"
-:bad-actors-badge: background-image="images/alien.jpg",background-size="400px",background-position="top right",background-repeat="no-repeat"
+:bad-actors-strip: .with-strip,background-image="images/alien-strip.jpg",background-size="auto 100%",background-position="right",background-repeat="no-repeat"
 // -----------------------------------------------------------------------------
 
+[{title-cover}]
 == Wir werden von der KI gefickt werden
 
 Die Frage ist nur:
@@ -32,8 +42,7 @@ Die Frage ist nur:
 Ich versuche #1 und #3 zu beantworten
 --
 
-== Vorweg
-
+[{title-strip}]
 === Ich mag KI
 
 [.notes]
@@ -46,6 +55,7 @@ Ich versuche #1 und #3 zu beantworten
 Ich akzeptiere einfach nur, dass sie uns überlegen ist
 --
 
+[{title-strip}]
 === Ich biete keine Lösungen an
 
 [.notes]
@@ -53,13 +63,16 @@ Ich akzeptiere einfach nur, dass sie uns überlegen ist
 Vielleicht kommt das ja in einer anderen Session, von einer anderen Person
 --
 
+[{title-strip}]
 === Ich bin kein Prophet
 
 Nach Murphys Law kommt alles ganz anders.
 Und wird noch viel schlimmer
 
+[{situation-cover}]
 == Die aktuelle Situation
 
+[{situation-strip}]
 === KI kann die meisten Dinge besser als die meisten Menschen
 
 [.notes]
@@ -68,6 +81,7 @@ Vergleicht die Leistung der KI nicht mit euren Programmierkenntnissen in eurer b
 Sondern mit den halb Dutzend anderen Sprachen, die ihr irgendwann mal verwendet habt.
 --
 
+[{situation-strip}]
 === KI ist unsicher
 
 [.notes]
@@ -77,6 +91,7 @@ Es gibt keine Trennung zwischen Argumenten und Befehl.
 Es ist alles nur ein fetter Text
 --
 
+[{situation-strip}]
 === Wir schützen uns nicht ordentlich
 
 [.notes]
@@ -88,6 +103,7 @@ Früher: AGI wird aus jeder Sandbox ausbrechen können
 Heute: Wir lassen sie einfach mit Root Rechten auf unserem Rechner laufen und geben ihr unsere Kreditkarte.
 --
 
+[{situation-strip}]
 === KI Halluziniert
 
 [.notes]
@@ -95,6 +111,7 @@ Heute: Wir lassen sie einfach mit Root Rechten auf unserem Rechner laufen und ge
 Dies scheint eine mathematisch notwendige Eigenschaft zu sein.
 --
 
+[{situation-strip}]
 === KI basiert auf gestohlenem Material
 
 [.notes]
@@ -104,8 +121,10 @@ KIs basieren auf illegalen Aktivitäten.
 Aber Staaten profitieren massiv davon wenn KI-Firmen im Inland sind statt im Ausland ...
 --
 
+[{economy-cover}]
 == Ökonomische Probleme
 
+[{economy-strip}]
 === Der Börsencrash
 
 [%step]
@@ -123,6 +142,7 @@ Gewinn: Zumindest nicht auf legalem Weg
 real economy: Kapital fehlt für reale Investitionen
 --
 
+[{economy-strip}]
 === Einkommensungleichheit
 
 [%step]
@@ -139,6 +159,7 @@ Ein paar werden damit ohne Zweifel Geld verdienen.
 Aber Otto und Ottilie Normalverbraucher bleiben auf der Strecke.
 --
 
+[{economy-strip}]
 === Das Arbeitsplatzproblem
 
 [.notes]
@@ -148,6 +169,7 @@ Aber Otto und Ottilie Normalverbraucher bleiben auf der Strecke.
 * Früher sind dafür neue Jobs entstanden. Aber gilt das diesmal auch?
 --
 
+[{economy-strip}]
 === Das Abhängigkeitsproblem
 
 Alle relevanten Modelle kommen aus wenigen Staaten.
@@ -160,7 +182,7 @@ Die USA haben schon vorgeführt, dass sie Zugänge von einem Moment auf den ande
 [{bad-actors-cover}]
 == Das Böse ist immer und überall
 
-[{bad-actors-badge}]
+[{bad-actors-strip}]
 === Kriminelle zerlegen die IT-Infrastruktur
 
 [.notes]
@@ -173,7 +195,7 @@ Die USA haben schon vorgeführt, dass sie Zugänge von einem Moment auf den ande
 * Aber Angreifer müssen nur eine Lücke finden. Verteidiger müssen alle schließen.
 --
 
-[{bad-actors-badge}]
+[{bad-actors-strip}]
 === Kriminelle manipulieren Menschen
 
 Der nigerianische Prinz geht jetzt Spear-Phishing.
@@ -186,7 +208,7 @@ Der nigerianische Prinz geht jetzt Spear-Phishing.
 * Spear-Phishing wird einfach. Man schickt einen Schwarm Agenten los, der Material sammelt und daraus überzeugende Texte baut.
 --
 
-[{bad-actors-badge}]
+[{bad-actors-strip}]
 === Staatlich finanzierte Kriminelle
 
 [.notes]
@@ -195,7 +217,7 @@ Der nigerianische Prinz geht jetzt Spear-Phishing.
 * Davon werden wir noch eine Menge sehen.
 --
 
-[{bad-actors-badge}]
+[{bad-actors-strip}]
 === Das Alignment-Problem
 
 KI maximiert eine Funktion, wir wissen nur nicht, welche.
@@ -207,8 +229,10 @@ KI maximiert eine Funktion, wir wissen nur nicht, welche.
 * Manche Modelle haben das nicht getan. Es stellte sich heraus: Sie hatten gemerkt, dass sie getestet werden.
 --
 
+[{social-cover}]
 == Gesellschaftliche Probleme
 
+[{social-strip}]
 === Vertrauen bricht weg
 
 [.notes]
@@ -218,6 +242,7 @@ KI maximiert eine Funktion, wir wissen nur nicht, welche.
 * => Das Internet wird weitgehend nutzlos
 --
 
+[{social-strip}]
 === Das Manipulationsproblem
 
 Ein paar große Konzerne bestimmen, was ihr zu sehen bekommt.
@@ -231,6 +256,7 @@ Demokratie basiert auf dem Zugang zu Fakten.
 Zumindest halte ich massives Lobbying und Astroturfing für ein ernstes Problem für unsere Gesellschaft.
 --
 
+[{social-strip}]
 === Das Diskriminierungsproblem
 
 [.notes]
@@ -238,6 +264,7 @@ Zumindest halte ich massives Lobbying und Astroturfing für ein ernstes Problem 
 Welche Vorurteile wir auch haben: Sie werden einzementiert und damit fortgeschrieben.
 --
 
+[{social-strip}]
 === Das Ausbildungsproblem
 
 [.notes]
@@ -249,6 +276,7 @@ Hausaufgaben jeder Art sind für praktisch alle kaputt.
  Und wenn wir die Junioren rauswerfen, wo sollen dann die Senioren herkommen?
 --
 
+[{social-strip}]
 === Das Arbeitsplatzproblem (gesellschaftlich)
 
 Das könnte das ganz große Ding sein.
@@ -262,24 +290,7 @@ Eine Gesellschaft wie in Star Trek ist möglich. Niemand muss arbeiten, weil fü
 Und ist, soweit ich weiß, genau das, was Marx vorhergesagt hat.
 --
 
-== Zum Schluss
-
-Ein paar Dinge, die ich für wichtig halte, wenn man über die Folgen von KI nachdenkt.
-
-=== KI vs. Mensch
-[%step]
-* KI kann manche Dinge besser als Menschen.
-* Und was sie kann, das kann sie rund um die Uhr, auf so vielen Servern, wie man bezahlen mag.
-* KI verbraucht nichts für sich selbst.
-
-=== Nutzt KI
-
-* um zu lernen
-* lasst euch von der KI nicht dümmer machen
-
-=== Diskussion
-
-== Enjoy (J)Crete
+== Viel Spaß noch beim Java Forum Nord
 
 Folien http://blog.schauderhaft.de/AI-Will-Fuck-Us-Over/#/
 
