@@ -19,6 +19,29 @@
 .reveal table.tableblock { border: none; }
 .reveal table.tableblock td { border: none; vertical-align: top; }
 
+/* Section artwork: the `==` slide carries the picture full-bleed, so the heading
+   needs a scrim to stay readable. The small corner copy on the `===` slides is a
+   plain reveal.js background and needs no styling. */
+.reveal section.section-cover h2 {
+  display: inline-block;
+  padding: 0.2em 0.5em;
+  background: rgba(0, 0, 0, 0.6);
+  border-radius: 8px;
+  text-shadow: 0 2px 14px rgba(0, 0, 0, 0.9);
+}
+
+/* Same scrim for body text, for cover slides that carry more than a heading. */
+.reveal section.section-cover .slide-content {
+  display: inline-block;
+  padding: 0.3em 0.8em;
+  background: rgba(0, 0, 0, 0.6);
+  border-radius: 8px;
+}
+
+/* Slides carrying the right-edge section strip: keep the content clear of it. */
+.reveal section.with-strip > h2,
+.reveal section.with-strip > .slide-content { padding-right: 22%; }
+
 /* Print / PDF export (?print-pdf): invert the black theme to black-on-white. */
 @media print {
   :root {
