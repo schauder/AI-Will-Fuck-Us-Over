@@ -36,6 +36,8 @@ jobs:
         run: |
           mkdir -p _site/reveal.js
           cp index.html sources.html custom.css _site/
+          cp -R images _site/
+          rm -rf _site/images/originals
           cp -R reveal.js/dist reveal.js/plugin _site/reveal.js/
 
       - name: Publish to gh-pages
