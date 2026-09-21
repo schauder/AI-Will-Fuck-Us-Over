@@ -10,6 +10,10 @@ Jens Schauder
 // Logitech Spotlight sends plain left/right arrows: make them walk every slide
 // in document order instead of skipping the vertical stacks.
 :revealjs_navigationMode: linear
+// Heise-Schlagzeile hinter der Titelfolie. "contain" zeigt den Screenshot
+// vollstaendig; er ist fast quadratisch, also bleiben links und rechts Balken.
+:title-slide-background-image: images/heise.jpg
+:title-slide-background-size: contain
 :revealjsdir: reveal.js
 :source-highlighter: highlight.js
 :customcss: custom.css
