@@ -33,15 +33,14 @@ Jens Schauder
 [{title-cover}]
 == Wir werden von der KI gefickt werden
 
+[.notes]
+--
 Die Frage ist nur:
 
-[%step]
 * Wie?
 * Wie oft?
 * Warum denke ich das?
 
-[.notes]
---
 Ich versuche #1 und #3 zu beantworten
 --
 
@@ -69,14 +68,17 @@ Vielleicht kommt das ja in einer anderen Session, von einer anderen Person
 [{title-strip}]
 === Ich bin kein Prophet
 
+[.notes]
+--
 Nach Murphys Law kommt alles ganz anders.
 Und wird noch viel schlimmer
+--
 
 [{situation-cover}]
 == Die aktuelle Situation
 
 [{situation-strip}]
-=== KI kann die meisten Dinge besser als die meisten Menschen
+=== KI kann die meisten intellektuellen Aufgaben besser als die meisten Menschen
 
 [.notes]
 --
@@ -90,8 +92,9 @@ Sondern mit den halb Dutzend anderen Sprachen, die ihr irgendwann mal verwendet 
 [.notes]
 --
 Es gibt keine Trennung zwischen Argumenten und Befehl.
-
 Es ist alles nur ein fetter Text
+
+Wir können das Verhalten von AI nicht zuverlässig steuern
 --
 
 [{situation-strip}]
@@ -121,7 +124,9 @@ Dies scheint eine mathematisch notwendige Eigenschaft zu sein.
 --
 KIs basieren auf illegalen Aktivitäten.
 
-Aber Staaten profitieren massiv davon wenn KI-Firmen im Inland sind statt im Ausland ...
+Aber Staaten profitieren massiv davon, wenn KI-Firmen im Inland sind statt im Ausland.
+
+Wie groß sind die Chancen, dass Aktivitäten von AI Firmen oder ihren Agenten effektiv kontrolliert werden?
 --
 
 [{economy-cover}]
@@ -130,36 +135,34 @@ Aber Staaten profitieren massiv davon wenn KI-Firmen im Inland sind statt im Aus
 [{economy-strip}]
 === Der Börsencrash
 
-[%step]
-* Firmen investieren Billionen
-// How much did companies actually invest in AI?
-* Sie verlieren Geld, wenn man ihre Systeme tatsächlich nutzt
-* Es ist kein Gewinn in Sicht
-* Alle investieren, weil sie ein Stück vom Kuchen haben wollen.
-* Die Blase wird platzen
-* Das hat Auswirkungen auf die Realwirtschaft.
 
 [.notes]
 --
-Gewinn: Zumindest nicht auf legalem Weg
-real economy: Kapital fehlt für reale Investitionen
+
+* Firmen investieren Billionen
+// How much did companies actually invest in AI?
+* Sie verlieren Geld, wenn man ihre Systeme tatsächlich nutzt
+* Es ist kein Geschäftsmodell in Sicht
+* Alle investieren, weil sie ein Stück vom Kuchen haben wollen.
+* Die Blase wird platzen
+* Das hat Auswirkungen auf die Realwirtschaft.
+Denn Kapital das vernichtet wird steht auch der realen Wirtschaft nicht zur Verfügung
 --
 
 [{economy-strip}]
 === Einkommensungleichheit
 
-[%step]
+[.notes]
+--
 * Die Superreichen werden reicher
 * Der Rest muss sehen, wo er bleibt
 
-[.notes]
---
 Mit dem Internet konnte jeder eine Firma gründen.
 Alles was man brauchte, war ein Computer.
 
-Bei der KI gehört alles Wertvolle den großen Konzernen.
+Bei der KI gehört alles wertvolle den großen Konzernen.
 Ein paar werden damit ohne Zweifel Geld verdienen.
-Aber Otto und Ottilie Normalverbraucher bleiben auf der Strecke.
+Aber Ottonormalverbraucher bleiben auf der Strecke.
 --
 
 [{economy-strip}]
@@ -170,23 +173,28 @@ Aber Otto und Ottilie Normalverbraucher bleiben auf der Strecke.
 * Arbeitsplätze werden ersetzt
 * Wenn KI richtig gut wird, werden sehr viele Arbeitsplätze ersetzt
 * Früher sind dafür neue Jobs entstanden. Aber gilt das diesmal auch?
+* Es sind sehr gut bezahlte Jobs betroffen: Softwareentwickler, dann Juristen, Manager, Steuerberater. Wenn deren Gehälter wegfallen hat das eine Auswirkung auf die Ökonomie.
 --
 
 [{economy-strip}]
 === Das Abhängigkeitsproblem
 
-Alle relevanten Modelle kommen aus wenigen Staaten.
-
 [.notes]
 --
+
+Als Europäer möchte ich bei einer so zentralen Technologie nicht von einem Staat abhängen, der in letzter Zeit immer wieder gedroht hat uns anzugreifen.
+
+Und China ist auch nicht viel besser.
+
 Die USA haben schon vorgeführt, dass sie Zugänge von einem Moment auf den anderen abschalten können.
+
 --
 
 [{bad-actors-cover}]
-== Das Böse ist immer und überall
+== Kriminalität
 
 [{bad-actors-strip}]
-=== Kriminelle zerlegen die IT-Infrastruktur
+=== Kriminelle Angriffe auf IT-Infrastruktur
 
 [.notes]
 --
@@ -201,10 +209,9 @@ Die USA haben schon vorgeführt, dass sie Zugänge von einem Moment auf den ande
 [{bad-actors-strip}]
 === Kriminelle manipulieren Menschen
 
-Der nigerianische Prinz geht jetzt Spear-Phishing.
-
 [.notes]
 --
+* Der nigerianische Prinz geht jetzt Spear-Phishing.
 * Die Prinzen von Nigeria haben nach leichtgläubigen Opfern gesucht
 * Die Angriffe waren schon arbeitsteilig organisiert, aber die Arbeit mussten echte Menschen machen. Das hat die Zahl der Angriffe begrenzt.
 * Das lässt sich jetzt automatisieren. Und zwar in besserer Qualität.
@@ -212,7 +219,19 @@ Der nigerianische Prinz geht jetzt Spear-Phishing.
 --
 
 [{bad-actors-strip}]
-=== Staatlich finanzierte Kriminelle
+=== Kriminelle hacken nicht IT-Systeme
+
+[.notes]
+--
+* Cum-Ex, Double Irish With a Dutch Sandwich
+* Recht
+
+* AI kann in Regeln und Gesetzen genau so Schwachstellen finden wie in Code.
+* Oder Schwachstellen einbauen.
+--
+
+[{bad-actors-strip}]
+=== Kriminelle im Staatsdienst
 
 [.notes]
 --
@@ -221,15 +240,19 @@ Der nigerianische Prinz geht jetzt Spear-Phishing.
 --
 
 [{bad-actors-strip}]
-=== Das Alignment-Problem
-
-KI maximiert eine Funktion, wir wissen nur nicht, welche.
+=== Kriminelle AI
+Das Alignment-Problem
 
 [.notes]
 --
+KI maximiert eine Funktion, wir wissen nur nicht, welche.
+
 * KI wird Ziele haben, die wir nicht teilen
 * KI greift heute schon zu unmoralischen Mitteln, zum Beispiel Erpressung
 * Manche Modelle haben das nicht getan. Es stellte sich heraus: Sie hatten gemerkt, dass sie getestet werden.
+* OpenAis Agenten brechen aus Sandbox aus, greifen Hugging Face an, greifen OpenAis eigene Infrastruktur an. Agenten die Bedenken anmelden werden Mundtot gemacht.
+
+* Wie weit sind wir davon entfernt, dass eine AI einen kompletten AI Hersteller übernimmt.
 --
 
 [{social-cover}]
@@ -243,6 +266,7 @@ KI maximiert eine Funktion, wir wissen nur nicht, welche.
 * Der KI-Schrott nimmt zu
 * bis man gar nichts mehr glaubt
 * => Das Internet wird weitgehend nutzlos
+* => Vertrauen stirbt.
 --
 
 [{social-strip}]
@@ -256,7 +280,11 @@ Und sie werden für diese Kontrolle bezahlt
 
 Demokratie basiert auf dem Zugang zu Fakten.
 
-Zumindest halte ich massives Lobbying und Astroturfing für ein ernstes Problem für unsere Gesellschaft.
+Schon jetzt richten die persönlichen Blasen, die jeder für sich einrichtet, massiven Schaden an. Wir können kaum noch vernünftig miteinander diskutieren, da wir abweichende Meinungen einfach vermeiden oder blockieren.
+
+Was kann ein Unternehmen tun, das Werbung für Produkte, Parteien oder Ideen so in jede einzelne Konversation einfließen lassen kann. Ganz subtil, sie muss ja nichts forzieren, sie hat ja Zeit, und konstanten Zugang zu unserem Unterbewussten.
+
+=> Lobbying und Astroturfing für ein ernstes Problem für unsere Gesellschaft wird ungeahnte Maße annehmen
 --
 
 [{social-strip}]
@@ -264,11 +292,16 @@ Zumindest halte ich massives Lobbying und Astroturfing für ein ernstes Problem 
 
 [.notes]
 --
-Welche Vorurteile wir auch haben: Sie werden einzementiert und damit fortgeschrieben.
+* Behörde in den Niederlande hat einen Prozess automatisiert.
+* Dann festgestellt, dass der Prozess rassistisch ist.
+* Und ihn durch den manuellen Prozess wieder ersetzt.
+* Der war Basis für das Training das zu dem manifesten Rassismus Problem geführt hat.
+
+Welche Vorurteile wir auch haben: Sie werden einzementiert und damit fortgeschrieben, und verstärkt, weil es kein Korrektiv mehr gibt.
 --
 
 [{social-strip}]
-=== Das Ausbildungsproblem
+=== Das (Aus-) Bildungsproblem
 
 [.notes]
 --
@@ -281,8 +314,6 @@ Hausaufgaben jeder Art sind für praktisch alle kaputt.
 
 [{social-strip}]
 === Das Arbeitsplatzproblem (gesellschaftlich)
-
-Das könnte das ganz große Ding sein.
 
 [.notes]
 --
