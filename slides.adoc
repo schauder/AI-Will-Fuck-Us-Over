@@ -31,6 +31,7 @@ Jens Schauder
 :social-cover: .section-cover,background-image="images/falling-down.jpg",background-size="cover"
 :social-strip: .with-strip,background-image="images/falling-down-strip.jpg",background-size="auto 100%",background-position="right",background-repeat="no-repeat"
 :outro-cover: .section-cover,background-image="images/hal9000.svg",background-size="contain",background-repeat="no-repeat"
+:credits-strip: .with-strip,background-image="images/hal9000-strip.svg",background-size="auto 100%",background-position="right",background-repeat="no-repeat"
 :bad-actors-cover: .section-cover,background-image="images/alien.jpg",background-size="cover"
 :bad-actors-strip: .with-strip,background-image="images/alien-strip.jpg",background-size="auto 100%",background-position="right",background-repeat="no-repeat"
 // -----------------------------------------------------------------------------
@@ -196,7 +197,7 @@ Die USA haben schon vorgeführt, dass sie Zugänge von einem Moment auf den ande
 --
 
 [{bad-actors-cover}]
-== Kriminalität
+== Kriminelle
 
 [{bad-actors-strip}]
 === Kriminelle Angriffe auf IT-Infrastruktur
@@ -329,6 +330,7 @@ Eine Gesellschaft wie in Star Trek ist möglich. Niemand muss arbeiten, weil fü
 Und ist, soweit ich weiß, genau das, was Marx vorhergesagt hat.
 --
 
+
 [{outro-cover}]
 == Viel Spaß noch beim Java Forum Nord
 
@@ -340,4 +342,19 @@ Github: https://github.com/schauder/AI-Will-Fuck-Us-Over
 
 Quellen: http://blog.schauderhaft.de/AI-Will-Fuck-Us-Over/sources.html
 
+[{credits-strip}]
+== Bildnachweise
 
+[.small]
+* Titelfolie: Screenshot heise online, „Nach KI-Halluzination: US-Armee hätte laut CNN beinahe Schiff aus China geentert" — © Heise Medien
+* „Wir werden von der KI gefickt werden": Pulp Fiction (1994) — © Miramax
+* „Die aktuelle Situation": Spaceballs (1987) — © Metro-Goldwyn-Mayer / Brooksfilms
+* „Ökonomische Probleme": Dilbert (2003), Scott Adams — © United Feature Syndicate
+* „Kriminelle": Alien: Covenant (2017) — © 20th Century Studios
+* „Gesellschaftliche Probleme": Falling Down (1993) — © Warner Bros.
+* Schlussfolie: HAL 9000 von Cryteria, via Wikimedia Commons, https://creativecommons.org/licenses/by/3.0/[CC BY 3.0]
+
+[.notes]
+--
+Die Filmstills sind Ausschnitte bzw. hochskaliert; HAL 9000 ist unverändert.
+--
