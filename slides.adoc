@@ -97,13 +97,13 @@ Sondern mit den halb Dutzend anderen Sprachen, die ihr irgendwann mal verwendet 
 [.notes]
 --
 Es gibt keine Trennung zwischen Argumenten und Befehl.
-Es ist alles nur ein fetter Text
+Es ist alles nur ein Textblock
 
 Wir können das Verhalten von AI nicht zuverlässig steuern
 --
 
 [{situation-strip}]
-=== Wir schützen uns nicht ordentlich
+=== Wir schützen uns nicht
 
 [.notes]
 --
@@ -272,6 +272,8 @@ KI maximiert eine Funktion, wir wissen nur nicht, welche.
 * bis man gar nichts mehr glaubt
 * => Das Internet wird weitgehend nutzlos
 * => Vertrauen stirbt.
+* Dinge passieren automatisch, nach nicht nachvollziehbaren Prozessen
+* => Vertrauen stirbt
 --
 
 [{social-strip}]

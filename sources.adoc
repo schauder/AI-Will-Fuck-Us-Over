@@ -107,6 +107,16 @@ flagged as still-open.
 agent-security entries. Note the author's own caveat that it only solves data
 access, not the network channel.
 
+=== Bruce Schneier
+
+https://www.youtube.com/watch?v=eEBv0STiYhI
+
+=== The Hugging Face incident
+
+Official report by Open AI
+
+https://openai.com/index/hugging-face-incident-and-the-road-ahead/
+
 == Deception, Alignment & Interpretability
 
 === AI's Secret Thoughts (AIs geheime Gedanken) [.green]#✓ read#
