@@ -6,6 +6,7 @@ Jens Schauder
 :revealjs_hash: true
 :revealjs_slideNumber: false
 :revealjs_controls: false
+:revealjs_progress: false
 :revealjs_history: true
 // Logitech Spotlight sends plain left/right arrows: make them walk every slide
 // in document order instead of skipping the vertical stacks.
