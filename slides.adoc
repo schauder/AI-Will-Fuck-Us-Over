@@ -30,6 +30,7 @@ Jens Schauder
 :economy-strip: .with-strip,background-image="images/heck-strip.jpg",background-size="auto 100%",background-position="right",background-repeat="no-repeat"
 :social-cover: .section-cover,background-image="images/falling-down.jpg",background-size="cover"
 :social-strip: .with-strip,background-image="images/falling-down-strip.jpg",background-size="auto 100%",background-position="right",background-repeat="no-repeat"
+:outro-cover: .section-cover,background-image="images/hal9000.svg",background-size="contain",background-repeat="no-repeat"
 :bad-actors-cover: .section-cover,background-image="images/alien.jpg",background-size="cover"
 :bad-actors-strip: .with-strip,background-image="images/alien-strip.jpg",background-size="auto 100%",background-position="right",background-repeat="no-repeat"
 // -----------------------------------------------------------------------------
@@ -328,16 +329,15 @@ Eine Gesellschaft wie in Star Trek ist möglich. Niemand muss arbeiten, weil fü
 Und ist, soweit ich weiß, genau das, was Marx vorhergesagt hat.
 --
 
+[{outro-cover}]
 == Viel Spaß noch beim Java Forum Nord
 
-Folien http://blog.schauderhaft.de/AI-Will-Fuck-Us-Over/#/
+Folien: http://blog.schauderhaft.de/AI-Will-Fuck-Us-Over/#/
 
-Druckversion
-
-http://blog.schauderhaft.de/AI-Will-Fuck-Us-Over/?print-pdf
+Print: http://blog.schauderhaft.de/AI-Will-Fuck-Us-Over/?print-pdf
 
 Github: https://github.com/schauder/AI-Will-Fuck-Us-Over
 
-Quellen http://blog.schauderhaft.de/AI-Will-Fuck-Us-Over/sources.html
+Quellen: http://blog.schauderhaft.de/AI-Will-Fuck-Us-Over/sources.html
 
 
