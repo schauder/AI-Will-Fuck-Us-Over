@@ -166,7 +166,7 @@ Alles was man brauchte, war ein Computer.
 
 Bei der KI gehört alles wertvolle den großen Konzernen.
 Ein paar werden damit ohne Zweifel Geld verdienen.
-Aber Ottonormalverbraucher bleiben auf der Strecke.
+Aber Otto Normalverbraucher bleiben auf der Strecke.
 --
 
 [{economy-strip}]
@@ -223,7 +223,7 @@ Die USA haben schon vorgeführt, dass sie Zugänge von einem Moment auf den ande
 --
 
 [{bad-actors-strip}]
-=== Kriminelle hacken nicht IT-Systeme
+=== Kriminelle hacken menschliche Systeme
 
 [.notes]
 --
