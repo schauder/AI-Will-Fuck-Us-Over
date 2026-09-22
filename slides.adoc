@@ -279,8 +279,6 @@ KI maximiert eine Funktion, wir wissen nur nicht, welche.
 [{social-strip}]
 === Das Manipulationsproblem
 
-Ein paar große Konzerne bestimmen, was ihr zu sehen bekommt.
-
 [.notes]
 --
 Und sie werden für diese Kontrolle bezahlt
@@ -331,6 +329,14 @@ Eine Gesellschaft wie in Star Trek ist möglich. Niemand muss arbeiten, weil fü
 Und ist, soweit ich weiß, genau das, was Marx vorhergesagt hat.
 --
 
+[{social-strip}]
+=== Die emotionale Bubble
+
+[.notes]
+--
+* Menschen wählen AI Partner
+* Verlieren die Fähigkeit normale Beziehungen zu führen
+--
 
 [{outro-cover}]
 == Viel Spaß noch beim Java Forum Nord
